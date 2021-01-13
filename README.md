@@ -1,7 +1,6 @@
 # university-chat-demo
 Demo repository for the development of my chat app for University Students.
 
-![](pic1.png?raw=true)
 <img src="pic1.png?raw=true" alt="" width="100" height="200">
 ![](pic2.png?raw=true)
 ![](pic3.png?raw=true)
