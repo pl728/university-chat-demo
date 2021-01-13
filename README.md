@@ -1,4 +1,4 @@
-# university-chat-demo
+# University Chat Demo
 Demo repository for the development of my chat app for University Students.
 
 <img src="pic4.png?raw=true" alt="" width="400" height="800">
